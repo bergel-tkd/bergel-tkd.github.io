@@ -1,9 +1,9 @@
 # Site settings
-title: Association Taekwon-Do ITF Canton de Berne
+title: Bergel Taekwon-Do ITF
 author:
   name: Alexandre Bergel
   email: alexandre.bergel@me.com
-description: "Site de l'Association Taekwon-Do ITF Canton de Bern/Verein Taekwon-Do ITF Kanton Bern"
+description: "Site du club Bergel Taekwon-Do ITF"
 
 # Build settings
 remote_theme: jekyll/minima
