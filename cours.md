@@ -25,7 +25,7 @@ L'addresse est [Muristrasse 21e, 3006 Bern, Switzerland](https://maps.app.goo.gl
 ## Prix
 Cours à l'unité: 15 CHF
 
-360 CHF / mois, ou 700 CHF / an
+360 CHF / 6 mois, ou 700 CHF / an
 
 1 cours d'essai gratuit
 
