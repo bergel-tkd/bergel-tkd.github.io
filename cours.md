@@ -14,16 +14,19 @@ Deux cours sont donné le mercredi à 14:00 au centre [Verein am See](https://ww
  - Mercredi 14:00 - 15:00, cours donné en langue française 🇫🇷
  - Mercredi 15:15 - 16:15, cours donné en langue espagnole 🇪🇸
 
-Les deux cours sont pour les enfants de 7 à 10 ans. Inscription possible à tout moment de l'année.
+Les deux cours sont pour les enfants de 7 à 10 ans.
 
 ## Comment s'y rendre
 L'addresse est [Muristrasse 21e, 3006 Bern, Switzerland](https://maps.app.goo.gl/tQE9UqTnfzeyE4xM7), accessible depuis l'arrêt Brunnadernstrasse avec le Tram 6, 7, 8, et Bus 28.
 
 
 ## Prix
-
 Cours à l'unité: 15 CHF
 
 360 CHF / mois, ou 700 CHF / an
 
 1 cours d'essai gratuit
+
+## Inscription
+
+Inscription possible à tout moment de l'année. Il suffit d'envoyer un email à [bergel.tkd@icloud.com](mailto:bergel.tkd@icloud.com). Busabunim Alexandre Bergel est également joignable au *076 683 23 78* (WhatApp, iMessage).

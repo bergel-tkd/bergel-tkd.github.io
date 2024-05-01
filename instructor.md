@@ -16,6 +16,8 @@ Il a également gagné 5 médailles dans des championats Sud-Américains et Pan-
 
 Le complet CV sportif de Alexandre Bergel est [disponible online](https://bergel.eu/sport.pdf).
 
+Alexandre Bergel parle Français 🇫🇷, Espagnole 🇪🇸, Anglais 🇬🇧, Allemand 🇨🇭.
+
 En dehors des tatamis, Alexandre Bergel a un doctorat en Science Informatique de l'Université de Berne. Il est chercheur en informatique.
 
 ![Alt World Cup 2014](images/WorldCup2014.JPEG){:width="80%"}
