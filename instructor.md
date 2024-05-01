@@ -2,7 +2,7 @@
 layout: page
 title: Instructeur
 ---
-Busabunim Alexandre Bergel pratique le Taekwon-Do depuis plus de 30 ans. Il est actuallement 3ème Dan de Taekwon-Do ITF.
+Busabunim Alexandre Bergel pratique le Taekwon-Do depuis plus de 30 ans. Il est actuallement 3ème Dan de Taekwon-Do ITF (numéro CHL-3-48).
 
 Pendant plus de 10 ans, il a été dans l'équipe de selection Chilienne. En particulier, il a participé dans:
 - plus de 30 competitions, nationales et internationales depuis 2011

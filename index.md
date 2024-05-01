@@ -11,4 +11,4 @@ Bergel Taekwon-Do fait parti de l'association [Association Taekwon-Do ITF Canton
 ![Alt Logo Bern](images/Logo_Bern.png){:width="50%"}
 ![Alt Logo Swiss](images/logo_Switzerland.jpg){:width="100%"}
 
-_Mise à jour de ce site: 30-04-2024_
+_Mise à jour de ce site: 01-05-2024_
