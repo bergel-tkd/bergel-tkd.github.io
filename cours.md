@@ -19,6 +19,8 @@ Les deux cours sont pour les enfants de 7 à 10 ans.
 ## Comment s'y rendre
 L'addresse est [Muristrasse 21e, 3006 Bern, Switzerland](https://maps.app.goo.gl/tQE9UqTnfzeyE4xM7), accessible depuis l'arrêt Brunnadernstrasse avec le Tram 6, 7, 8, et Bus 28.
 
+![Alt Salle](images/Salle.png){:width="40%"}
+
 
 ## Prix
 Cours à l'unité: 15 CHF
