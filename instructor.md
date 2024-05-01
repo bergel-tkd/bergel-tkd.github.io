@@ -18,6 +18,6 @@ Le complet CV sportif de Alexandre Bergel est [disponible online](https://bergel
 
 Alexandre Bergel parle Français 🇫🇷, Espagnole 🇪🇸, Anglais 🇬🇧, Allemand 🇨🇭.
 
-En dehors des tatamis, Alexandre Bergel a un doctorat en Science Informatique de l'Université de Berne. Il est chercheur en informatique.
+En dehors des tatamis, Alexandre Bergel a un doctorat en Science Informatique de l'Université de Berne. Il est [chercheur en informatique](https://bergel.eu/).
 
 ![Alt World Cup 2014](images/WorldCup2014.JPEG){:width="80%"}
