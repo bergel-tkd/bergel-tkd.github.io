@@ -33,4 +33,4 @@ Cours à l'unité: 15 CHF
 
 Inscription possible à tout moment de l'année. Il suffit d'envoyer un email à [bergel.tkd@icloud.com](mailto:bergel.tkd@icloud.com). Busabunim Alexandre Bergel est également joignable au *076 683 23 78* (WhatApp, iMessage).
 
-Au Plaisir de vous y accueillir !
+Au plaisir de vous y accueillir !
