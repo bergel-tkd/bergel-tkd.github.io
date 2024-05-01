@@ -12,7 +12,7 @@ Les cours donnés sont spécialement conçu pour des enfants, filles et garçons
 Deux cours sont donné le mercredi à 14:00 au centre [Verein am See](https://www.vereinamsee.ch/):
 
  - Mercredi 14:00 - 15:00, cours donné en langue française 🇫🇷
- - Mercredi 15:15 - 16:15, cours donné en langue espagnole 🇪🇸
+ - Mercredi 15:00 - 16:00, cours donné en langue espagnole 🇪🇸
 
 Les deux cours sont pour les enfants de 7 à 10 ans.
 
