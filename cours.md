@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Cours
 ---
 
 Le Taekwon-Do est un art coréen de self-defense. C’est un art martial moderne et efficace fondé sur des principes clairs de morale et éthique. Les cours donnés au club Bergel Taekwon-Do vont au delà d’enseigner la self-defense. Par exemple, il permet, par exemple, de lutter efficacement contre le harcèlement scolaire ou à l’extérieur.
