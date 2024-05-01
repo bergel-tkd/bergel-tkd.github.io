@@ -20,4 +20,5 @@ Alexandre Bergel parle Français 🇫🇷, Espagnol 🇪🇸, Anglais 🇬🇧, 
 
 En dehors des tatamis, Alexandre Bergel a un doctorat en Science Informatique de l'Université de Berne. Il est [chercheur en informatique](https://bergel.eu/).
 
+![Alt World Cup 2014 Fight](images/WorldCup2014-Fight.JPEG){:width="80%"}
 ![Alt World Cup 2014](images/WorldCup2014.JPEG){:width="80%"}
