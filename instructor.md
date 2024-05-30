@@ -2,7 +2,7 @@
 layout: page
 title: Instructeur
 ---
-Busabunim Alexandre Bergel pratique le Taekwon-Do depuis plus de 30 ans. Il est actuallement 3ème Dan de Taekwon-Do ITF (numéro CHL-3-48).
+Busabunim Alexandre Bergel pratique le Taekwon-Do depuis plus de 30 ans. Il est actuellement 3ème Dan de Taekwon-Do ITF (numéro CHL-3-48).
 
 Pendant plus de 10 ans, il a été dans l'équipe de selection Chilienne. En particulier, il a participé dans:
 - plus de 30 competitions, nationales et internationales depuis 2011
@@ -12,7 +12,9 @@ Il a gagné deux médailles de coupe du monde:
 - 🥉 Bronze en technique, à Budapest en 2016
 - 🥈 Argent en technique en Jamaïque en 2014
 
-Il a également gagné 5 médailles dans des championats Sud-Américains et Pan-Américains.
+Il a également gagné 5 médailles dans des championats Sud-Américains et Pan-Américains (technique et combat). 
+
+En 2015, il a été vice-champion d'Argentine en 2015 et 3ème en combat. 
 
 Le complet CV sportif de Alexandre Bergel est [disponible online](https://bergel.eu/sport.pdf).
 
