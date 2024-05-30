@@ -23,14 +23,18 @@ L'addresse est [Muristrasse 21e, 3006 Bern, Switzerland](https://maps.app.goo.gl
 
 
 ## Prix
-Cours à l'unité: 15 CHF
-
-360 CHF / 6 mois, ou 700 CHF / an
+ - Cours à l'unité: 15 CHF
+ - Abonnement de 6 mois, 1 cours par semaine: 360 CHF
+ - Abonnement de 12 mois, 1 cours par semaine: 600 CHF
+ - Abonnement de 6 mois, 2 cours par semaine: 600 CHF
+ - Abonnement de 12 mois, 2 cours par semaine: 800 CHF
 
 1 cours d'essai gratuit
 
 ## Inscription
 
 Inscription possible à tout moment de l'année. Il suffit d'envoyer un email à [bergel.tkd@icloud.com](mailto:bergel.tkd@icloud.com). Busabunim Alexandre Bergel est également joignable au *076 683 23 78* (WhatApp, iMessage).
+
+Une fois que l'enfant à participer à un cours d'essai, son inscription est officialisé avec le formulaire d'inscription: [https://forms.gle/PvKheqbb8DoEaecA6](https://forms.gle/PvKheqbb8DoEaecA6)
 
 Au plaisir de vous y accueillir !
