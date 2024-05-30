@@ -35,6 +35,6 @@ L'addresse est [Muristrasse 21e, 3006 Bern, Switzerland](https://maps.app.goo.gl
 
 Inscription possible à tout moment de l'année. Il suffit d'envoyer un email à [bergel.tkd@icloud.com](mailto:bergel.tkd@icloud.com). Busabunim Alexandre Bergel est également joignable au *076 683 23 78* (WhatApp, iMessage).
 
-Une fois que l'enfant à participer à un cours d'essai, son inscription est officialisé avec le formulaire d'inscription: [https://forms.gle/PvKheqbb8DoEaecA6](https://forms.gle/PvKheqbb8DoEaecA6)
+Une fois que l'enfant à participer à un cours d'essai, son inscription est officialisée avec le formulaire d'inscription: [https://forms.gle/PvKheqbb8DoEaecA6](https://forms.gle/PvKheqbb8DoEaecA6)
 
 Au plaisir de vous y accueillir !
