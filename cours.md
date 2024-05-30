@@ -29,7 +29,9 @@ L'addresse est [Muristrasse 21e, 3006 Bern, Switzerland](https://maps.app.goo.gl
  - Abonnement de 6 mois, 2 cours par semaine: 600 CHF
  - Abonnement de 12 mois, 2 cours par semaine: 800 CHF
 
-1 cours d'essai gratuit
+1 cours d'essai gratuit.
+
+À cela, s'ajoute les coûts liés aux examens de passage de ceinture, tournois, et inscriptions à la [Fédération Suisse de Taekwon-Do ITF](https://www.taekwondo-itf.ch).
 
 ## Inscription
 
