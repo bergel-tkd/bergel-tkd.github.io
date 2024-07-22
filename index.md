@@ -13,4 +13,12 @@ Bergel Taekwon-Do fait parti de l'association [Association Taekwon-Do ITF Canton
 ![Alt Logo Bern](images/Logo_Bern.png){:width="50%"}
 ![Alt Logo Swiss](images/logo_Switzerland.jpg){:width="100%"}
 
+Bergel Taekwon-Do ITF est le résultat d'un effort collectif. En particulier, nous tenons à remercier
+
+- Les parents pour leur confiance,
+- Sabunim François Couture pour son appui inconditionel,
+- Sarah Boog pour ses qualitées de designer graphique,
+- [Association Taekwon-Do ITF Canton de Berne/Verein Taekwon-Do ITF Kanton Bern](https://taekwondoitf-bern.github.io/),
+- [Fédération Suisse de Taekwon-Do ITF](https://www.taekwondo-itf.ch)
+
 _Mise à jour de ce site: 01-05-2024_
