@@ -24,7 +24,7 @@ L'addresse est [Muristrasse 21e, 3006 Bern, Switzerland](https://maps.app.goo.gl
 ## Prix
 
  - Mercredi: 1 cours = 15 CHF (durée 1h)
- - Lundi: 1 cours = 20 CHF (durée 1h30  
+ - Lundi: 1 cours = 20 CHF (durée 1h30)
 
 1 cours d'essai gratuit.
 
