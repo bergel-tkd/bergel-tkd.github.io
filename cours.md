@@ -30,8 +30,6 @@ L'addresse est [Muristrasse 21e, 3006 Bern, Switzerland](https://maps.app.goo.gl
 
 À cela, s'ajoute les coûts liés aux examens de passage de ceinture, tournois, et inscriptions à la [Fédération Suisse de Taekwon-Do ITF](https://www.taekwondo-itf.ch).
 
-Deduction de 10% pour fratrie. Par exemple, 1 frère et 1 soeur qui participe au cours du mercredi coute 27 CHF au lieu de 30 CHF.
-
 ## Inscription
 
 Inscription possible à tout moment de l'année. Il suffit d'envoyer un email à [bergel.tkd@icloud.com](mailto:bergel.tkd@icloud.com). Busabunim Alexandre Bergel est également joignable au *076 683 23 78* (WhatApp, iMessage).
