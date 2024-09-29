@@ -11,10 +11,9 @@ Les cours donnés sont spécialement conçu pour des enfants, filles et garçons
 
 Deux cours sont donné le mercredi à 14:00 au centre [Verein am See](https://www.vereinamsee.ch/):
 
- - Mercredi 14:00 - 15:00, cours donné en langue française 🇫🇷
+ - Mercredi 14:00 - 15:00, cours donné en langue française 🇫🇷, pour enfant de 6 à 12 ans
  - Mercredi 15:00 - 16:00, cours donné en langue espagnole 🇪🇸
-
-Les deux cours sont pour les enfants de 7 à 10 ans.
+ - Lundi 18:30 - 20:00, cours donné en langue française 🇫🇷, pour enfant à partir de 11 ans et adultes 
 
 ## Comment s'y rendre
 L'addresse est [Muristrasse 21e, 3006 Bern, Switzerland](https://maps.app.goo.gl/tQE9UqTnfzeyE4xM7), accessible depuis l'arrêt Brunnadernstrasse avec le Tram 6, 7, 8, et Bus 28.
@@ -23,15 +22,15 @@ L'addresse est [Muristrasse 21e, 3006 Bern, Switzerland](https://maps.app.goo.gl
 
 
 ## Prix
- - Cours à l'unité: 15 CHF
- - Abonnement de 6 mois, 1 cours par semaine: 360 CHF
- - Abonnement de 12 mois, 1 cours par semaine: 600 CHF
- - Abonnement de 6 mois, 2 cours par semaine: 600 CHF
- - Abonnement de 12 mois, 2 cours par semaine: 800 CHF
+
+ - Mercredi: 1 cours = 15 CHF (durée 1h)
+ - Lundi: 1 cours = 20 CHF (durée 1h30  
 
 1 cours d'essai gratuit.
 
 À cela, s'ajoute les coûts liés aux examens de passage de ceinture, tournois, et inscriptions à la [Fédération Suisse de Taekwon-Do ITF](https://www.taekwondo-itf.ch).
+
+Deduction de 10% pour fratrie. Par exemple, 1 frère et 1 soeur qui participe au cours du mercredi coute 27 CHF au lieu de 30 CHF.
 
 ## Inscription
 
