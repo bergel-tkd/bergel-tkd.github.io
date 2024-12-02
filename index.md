@@ -21,4 +21,4 @@ Bergel Taekwon-Do ITF est le résultat d'un effort collectif. En particulier, no
 - [Association Taekwon-Do ITF Canton de Berne/Verein Taekwon-Do ITF Kanton Bern](https://taekwondoitf-bern.github.io/),
 - [Fédération Suisse de Taekwon-Do ITF](https://www.taekwondo-itf.ch)
 
-_Mise à jour de ce site: 01-05-2024_
+_Mise à jour de ce site: 02-12-2024_
