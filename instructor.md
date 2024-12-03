@@ -26,3 +26,6 @@ En dehors des tatamis, Alexandre Bergel a un doctorat en Science Informatique de
 ![Alt World Cup 2014](images/WorldCup2014.JPEG){:width="80%"}
 ![Presentation](images/Presentation.jpg){:width="80%"}
 ![Fight](images/fight.jpg){:width="80%"}
+![Budapest_World_Cup(images/Budapest_World_Cup.JPEG){:width="80%"}
+![Budapest_World_Cup(images/Budapest_World_Cup_Medal.JPEG){:width="80%"}
+
