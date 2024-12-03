@@ -3,6 +3,7 @@ layout: home
 ---
 
 Bienvenu sur le site web du club _Bergel Taekwon-Do ITF_.
+
 ![Alt Logo Bern](images/IMG_6461.PNG){:width="40%"}
 
 Originaire de la Corée, le Taekwon-Do est un art martial fondé en 1955 par le Général Choi Hong Hi.
