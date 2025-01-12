@@ -12,7 +12,7 @@ Les cours donnés sont spécialement conçu pour des enfants, filles et garçons
 Deux cours sont donné le mercredi à 14:00 au centre [Verein am See](https://www.vereinamsee.ch/):
 
  - Mercredi 14:00 - 15:00, pour enfants
- - Mercredi 15:00 - 16:00, pour petits enfants (3-5 ans)
+ - Mercredi 15:20 - 16:00, pour petits enfants (3-5 ans)
  - Lundi 18:30 - 20:00, pour enfants à partir de 12 ans et adultes 
 
 ## Comment s'y rendre
