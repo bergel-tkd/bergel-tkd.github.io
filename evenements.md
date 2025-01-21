@@ -4,8 +4,10 @@ title: Évènements
 ---
 2025:
   - 20 septembre: Championnat Suisse, à Rüti (CH)
+  - 06 septembre: Séminaire national à Berne
   - 29 & 30 mars: [Open Dublin](https://www.sportdata.org/taekwondo_itf/set-online/veranstaltung_info_main.php?active_menu=calendar&vernr=542&ver_info_action=catlist)
   - 8 & 9 mars: [Open Warrior ](https://thewarrioropen.com/tournament-format/), Londres, UK
+  - 25 janvier: Examen ceinture
   - 25 janvier: [Open Dutch](https://open-dutch.nl), Helmond, NL
 
 2024:
