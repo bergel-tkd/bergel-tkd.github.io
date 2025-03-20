@@ -5,11 +5,13 @@ title: Évènements
 2025:
   - 20 septembre: Championnat Suisse, à Rüti (CH)
   - 06 septembre: Séminaire national à Berne
+  - 25 mai: [Open Genes](https://www.handlesport.com/files/event/EV047/docs/IX%20OPEN%20TAEKWONDO%20ITF%20GENOVA%20invitation.pdf)
   - 24 - 27 avril: [European Taekwon-Do Championships](https://itftkd.sport/event/euros-2025-sarajevo-bosnia-herzegovina/), Sarajevo, Bosnia & Herzegovina
+  - 13 avril: Examen de ceinture
   - 29 & 30 mars: [Open Dublin](https://www.sportdata.org/taekwondo_itf/set-online/veranstaltung_info_main.php?active_menu=calendar&vernr=542&ver_info_action=catlist)
   - 8 & 9 mars: [Open Warrior ](https://thewarrioropen.com/tournament-format/), Londres, UK
-  - 25 janvier: Examen ceinture
-  - 25 janvier: [Open Dutch](https://open-dutch.nl), Helmond, NL
+  - 2 février: classe spéciale donnée par le Sabunim François Couture
+  - 25 janvier: Examen de ceinture
 
 2024:
   - Décembre 7: Entraînement national à Rüti (CH)
