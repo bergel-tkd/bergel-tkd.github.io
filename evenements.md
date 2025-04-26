@@ -5,6 +5,8 @@ title: Évènements
 2025:
   - 20 septembre: Championnat Suisse, à Rüti (CH)
   - 06 septembre: Séminaire national à Berne
+  - 08-09 juin: [Golden Summer Camp Sardenia](https://fariguoriolani.com/golden-summer-camp/)
+  - 07 juin: [Sardinian Open](https://fariguoriolani.com/sardinia-open)
   - 25 mai: [Open Genes](https://www.handlesport.com/event/view?id=47)
   - 24 - 27 avril: [European Taekwon-Do Championships](https://itftkd.sport/event/euros-2025-sarajevo-bosnia-herzegovina/), Sarajevo, Bosnia & Herzegovina
   - 13 avril: Examen de ceinture
