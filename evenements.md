@@ -8,6 +8,7 @@ title: Évènements
   - 08-09 juin: [Golden Summer Camp Sardenia](https://fariguoriolani.com/golden-summer-camp/)
   - 07 juin: [Sardinian Open](https://fariguoriolani.com/sardinia-open)
   - 25 mai: [Open Genes](https://www.handlesport.com/event/view?id=47)
+  - 10 mai: Seminaire arbitrage, Rüti
   - 24 - 27 avril: [European Taekwon-Do Championships](https://itftkd.sport/event/euros-2025-sarajevo-bosnia-herzegovina/), Sarajevo, Bosnia & Herzegovina
   - 13 avril: Examen de ceinture
   - 29 & 30 mars: [Open Dublin](https://www.sportdata.org/taekwondo_itf/set-online/veranstaltung_info_main.php?active_menu=calendar&vernr=542&ver_info_action=catlist)
