@@ -2,7 +2,7 @@
 layout: home 
 ---
 
-Bienvenu sur le site web du club _Bergel Taekwon-Do ITF_.
+Bienvenu sur le site web du club _Bergel Taekwon-Do ITF_. [Flyer](docs/2025-05-11-Flyer.pdf)
 
 ![Alt Logo Bern](images/IMG_6461.PNG){:width="40%"}
 
